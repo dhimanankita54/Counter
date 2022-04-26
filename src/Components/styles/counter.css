@@ -54,12 +54,14 @@ input[type=text]:focus {
 
 .initial {
     margin-top: 50px;
-    margin-left: 41%;
-    width: 20%;
+    margin-left: 39%;
+    width: 22%;
     --webkit-box-shadow: 0 0 7px lightgrey;
     box-shadow: 0 0 7px lightgrey;
    padding: 20px;
    border-radius: 5px;
+   font-weight: bolder;
+    color: #B71C1C;
 }
 
 .limit-input {
